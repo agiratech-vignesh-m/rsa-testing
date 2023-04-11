@@ -1,0 +1,50 @@
+{
+    "patient_id": "P001",
+    "name": {
+      "first": "John",
+      "last": "Doe"
+    },
+    "date_of_birth": "1980-01-01",
+    "gender": "male",
+    "contact": {
+      "phone": "+1-555-1234",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      }
+    },
+    "medical_history": [
+      {
+        "diagnosis": "Hypertension",
+        "date_diagnosed": "2015-01-01"
+      },
+      {
+        "diagnosis": "Diabetes",
+        "date_diagnosed": "2020-05-01"
+      }
+    ],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "dose": "10mg",
+        "route": "oral",
+        "frequency": "once daily"
+      },
+      {
+        "name": "Metformin",
+        "dose": "1000mg",
+        "route": "oral",
+        "frequency": "twice daily"
+      }
+    ],
+    "allergies": [
+      {
+        "name": "Penicillin",
+        "reaction": "hives"
+      }
+    ]
+  }
+  

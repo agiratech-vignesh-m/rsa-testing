@@ -1,0 +1,54 @@
+{
+    "patient_id": "P003",
+    "name": {
+      "first": "Michael",
+      "last": "Johnson"
+    },
+    "date_of_birth": "1972-12-03",
+    "gender": "male",
+    "contact": {
+      "phone": "+1-555-9012",
+      "email": "michael.johnson@example.com",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Another Town",
+        "state": "TX",
+        "zip": "45678"
+      }
+    },
+    "medical_history": [
+      {
+        "diagnosis": "Osteoarthritis",
+        "date_diagnosed": "2010-05-01"
+      },
+      {
+        "diagnosis": "Hypothyroidism",
+        "date_diagnosed": "2015-07-01"
+      }
+    ],
+    "medications": [
+      {
+        "name": "Celecoxib",
+        "dose": "200mg",
+        "route": "oral",
+        "frequency": "twice daily"
+      },
+      {
+        "name": "Levothyroxine",
+        "dose": "100mcg",
+        "route": "oral",
+        "frequency": "once daily"
+      }
+    ],
+    "allergies": [
+      {
+        "name": "Shellfish",
+        "reaction": "nausea"
+      },
+      {
+        "name": "Sulfonamide",
+        "reaction": "rash"
+      }
+    ]
+  }
+  

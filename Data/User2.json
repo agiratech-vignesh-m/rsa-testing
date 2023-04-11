@@ -1,0 +1,50 @@
+{
+    "patient_id": "P002",
+    "name": {
+      "first": "Jane",
+      "last": "Doe"
+    },
+    "date_of_birth": "1995-07-15",
+    "gender": "female",
+    "contact": {
+      "phone": "+1-555-5678",
+      "email": "jane.doe@example.com",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Somewhere",
+        "state": "NY",
+        "zip": "67890"
+      }
+    },
+    "medical_history": [
+      {
+        "diagnosis": "Asthma",
+        "date_diagnosed": "2005-05-01"
+      },
+      {
+        "diagnosis": "Depression",
+        "date_diagnosed": "2020-01-01"
+      }
+    ],
+    "medications": [
+      {
+        "name": "Albuterol",
+        "dose": "2 puffs",
+        "route": "inhalation",
+        "frequency": "as needed"
+      },
+      {
+        "name": "Sertraline",
+        "dose": "50mg",
+        "route": "oral",
+        "frequency": "once daily"
+      }
+    ],
+    "allergies": [
+      {
+        "name": "Peanuts",
+        "reaction": "anaphylaxis"
+      }
+    ]
+  }
+  
